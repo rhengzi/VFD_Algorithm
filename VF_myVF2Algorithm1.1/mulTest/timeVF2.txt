@@ -1,0 +1,2 @@
+nodes	edges	initialState	matchTime	numberOfVF2State	flag
+1100	3300	0	0.01	1409	1

@@ -1,0 +1,2 @@
+nodes	edges	distanceTime	initialPartition	SDState	matchTime	numberOfSDState	flag
+1100	3300	44.94	67.73	67.73	68.86	1210	1

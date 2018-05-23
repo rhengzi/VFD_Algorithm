@@ -1,0 +1,2 @@
+nodes	edges	initialState	matchTime	numberOfVF2State	numberOfExploreNodes	flag
+200	886	17.297	17.828	201	200	1
